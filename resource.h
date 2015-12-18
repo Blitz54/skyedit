@@ -837,7 +837,7 @@
 #define IDC_MINLEVEL                    1574
 #define IDC_ZONERESET                   1575
 #define IDC_ZONEUNKNOWN1                1576
-#define IDC_ZONEUNKNOWN2                1577
+#define IDC_DISABLECOMBATBOUNDARY       1577
 #define IDC_FACTION                     1578
 #define IDC_EDIT_FACTION                1579
 #define IDC_SELECT_FACTION              1580
@@ -1315,7 +1315,7 @@
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_3D_CONTROLS                     1
-#define _APS_NEXT_RESOURCE_VALUE        245
+#define _APS_NEXT_RESOURCE_VALUE        250
 #define _APS_NEXT_COMMAND_VALUE         32968
 #define _APS_NEXT_CONTROL_VALUE         1814
 #define _APS_NEXT_SYMED_VALUE           101
